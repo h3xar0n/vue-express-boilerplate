@@ -1,6 +1,6 @@
-# client
+# Client (Vue boilerplate)
 
-> A Vue.js project
+> A Vue.js project connected to yo backend.
 
 ## Build Setup
 
